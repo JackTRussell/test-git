@@ -26,7 +26,7 @@ Then the payroll for the employee with <id> should display a salary of <salary>
 And i want save this string to Git
 And this string must be pulled from Git
 And this also must be re-stored on GIT!!!!
-And 34wteyeyy
+And kuku
 
 Examples: 
 |id|user|salary|
@@ -38,6 +38,5 @@ Examples:
 |6|minnie|62000.0|
 |7|mickey|51000.0|
 |8|fethry|66500.0|
-
 
 

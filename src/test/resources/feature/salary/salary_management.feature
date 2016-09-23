@@ -17,7 +17,6 @@ Examples:
 |dewie|
 
 
-
 @High @Test_1 @SC_412801569
 Scenario Outline: Modify an employee's salary
 Given the salary management system is initialized with the following data

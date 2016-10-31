@@ -9,9 +9,7 @@ And today is 2015-11-18
 @SC_54302
 Scenario: 
 Given a $100 microwave was sold on 2015-11-03
-And today is 2015-11-18
-And qwertywjklshdf
-Then i want save this string to Git
+And today is 2016-10-31
 
 @SC_54299
 Scenario: Check update from GIT

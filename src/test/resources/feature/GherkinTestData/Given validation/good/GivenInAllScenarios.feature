@@ -1,4 +1,4 @@
-@Story_Good @ST_521575251
+@ST_12955 @Story_Good
 Feature: Given in all scenarios
 Check Background without given keyword
 
@@ -6,24 +6,24 @@ Background:
 
 When in this story background hasn't given keyword
 
-@SC_491958954
+@SC_54214
 Scenario: 
 When in this story background hasn't given keyword
 
-@SC_672437291
+@SC_54216
 Scenario: 
 When in this story background hasn't given keyword
 
-@SC_792398470
+@SC_54217
 Scenario: 
 When in this story background hasn't given keyword
 
-@Critical @Test_1 @SC_97189917
+@SC_54213 @Critical @Test_1
 Scenario: Check scenario
 Given this scenario must started from given keyword
 Then gherkin parser must be ok with parsing
 
-@Medium @Test_2 @SC_521580252
+@SC_54215 @Medium @Test_2
 Scenario Outline: Check another scenario
 Given this scenario must started from given keyword
 Then gherkin parser must be ok with parsing <two> <three> <one>
@@ -31,5 +31,3 @@ Then gherkin parser must be ok with parsing <two> <three> <one>
 Examples: 
 |one|two|three|
 ||||
-
-

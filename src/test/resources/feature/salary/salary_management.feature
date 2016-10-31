@@ -10,6 +10,7 @@ And i want save this string to Git
 And this string must be pulled from Git
 And we have this story in Jira
 And this also must be re-stored on GIT
+Then in this story background hasn't given keyword
 
 Examples: 
 |id|user|salary|

@@ -35,4 +35,4 @@ Examples:
 |user|
 |donald|
 |dewie|
-|fethry|66500.0|
+|fethry|

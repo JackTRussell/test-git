@@ -10,6 +10,7 @@ And today is 2015-11-18
 Scenario: 
 Given a $100 microwave was sold on 2015-11-03
 And today is 2016-10-31
+Then the salary management system is initialized with the following data
 
 @SC_54299
 Scenario: Check update from GIT

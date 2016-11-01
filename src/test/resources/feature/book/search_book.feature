@@ -33,6 +33,7 @@ Given a $100 microwave was sold on 2015-11-03
 And today is 2016-10-31
 Then the salary management system is initialized with the following data
 
+@SC_55579
 Scenario Outline: test scenario
 Given the salary management system is initialized with the following data
 When the boss increases the salary for the <user> with id <id> by 5%

@@ -16,7 +16,8 @@ And this string must be pulled from Git
 And this also must be re-stored on GIT!!!!
 And 34wteyeyy
 
-Examples: feeding a suckler cow
+Examples: 
+feeding a suckler cow
 some valid example table desc
 some valid example table desc
 some valid example table desc

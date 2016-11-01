@@ -16,7 +16,8 @@ And this string must be pulled from Git
 And this also must be re-stored on GIT!!!!
 And 34wteyeyy
 
-Examples: example name description description description description description description description description description description description description description description description description
+Examples: example 
+name description description description description description description description description description description description description description description description description
 |user|id|salary|
 |donald|1|60000.0|
 |dewie|2|62000.0|

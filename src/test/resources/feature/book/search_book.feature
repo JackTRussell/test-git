@@ -6,24 +6,6 @@ Background:
 
 And today is 2015-11-18
 
-@SC_55579
-Scenario Outline: test scenario
-Given the salary management system is initialized with the following data
-When the boss increases the salary for the <user> with id <id> by 5%
-Then the payroll for the employee with <id> should display a salary of <salary>
-And i want save this string to Git
-And this string must be pulled from Git
-And this also must be re-stored on GIT!!!!
-And 34wteyeyy
-
-Examples: example 
-name description description description description description description description description description description description description description description description description
-|user|id|salary|
-|donald|1|60000.0|
-|dewie|2|62000.0|
-|mickey|3|35000.0|
-|stive|4|45000.0|
-
 @SC_54299
 Scenario: Check update from GIT
 Given I created new scenario in repository
@@ -50,3 +32,21 @@ Scenario:
 Given a $100 microwave was sold on 2015-11-03
 And today is 2016-10-31
 Then the salary management system is initialized with the following data
+
+@SC_55579
+Scenario Outline: test scenario
+Given the salary management system is initialized with the following data
+When the boss increases the salary for the <user> with id <id> by 5%
+Then the payroll for the employee with <id> should display a salary of <salary>
+And i want save this string to Git
+And this string must be pulled from Git
+And this also must be re-stored on GIT!!!!
+And 34wteyeyy
+
+Examples: example
+name description description description description description description description description description description description description description description description description
+|user|id|salary|
+|donald|1|60000.0|
+|dewie|2|62000.0|
+|mickey|3|35000.0|
+|stive|4|45000.0|

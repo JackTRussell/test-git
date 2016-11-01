@@ -43,11 +43,7 @@ And this string must be pulled from Git
 And this also must be re-stored on GIT!!!!
 And 34wteyeyy
 
-Examples: feeding a suckler cow
-some valid example table desc
-some valid example table desc
-some valid example table desc
-some valid example table desc
+Examples: 
 |user|id|salary|
 |donald|1|60000.0|
 |dewie|2|62000.0|

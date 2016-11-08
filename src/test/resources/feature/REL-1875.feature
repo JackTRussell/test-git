@@ -5,6 +5,7 @@ I want to see new description with new changes
 Background: 
 
 Given new changes
+Then sjkl;
 
 @SC_61772 @first_scenario_tag
 Scenario: First scenario

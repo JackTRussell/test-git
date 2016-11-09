@@ -20,3 +20,4 @@ When we call relime
 Then the feature must be created on root with feature filename rel-798
 And this second scenario
 And with Tags
+But the salary management system is initialized with the following data

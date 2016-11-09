@@ -5,6 +5,7 @@ I want to see new description
 Background: 
 
 Given hkjhkj
+And we have this story in Jira
 
 @SC_61782 @first_scenario_tag
 Scenario: First scenario

@@ -6,6 +6,52 @@ Background:
 
 And today is 2015-11-18
 
+@SC_109817
+Scenario Outline: 
+Given a simple DocString
+"""
+first line (no indent)
+second line (indented with two spaces)
+third line was empty
+"""
+Given a DocString with content type
+"""xml
+<foo>
+<bar />
+</foo>
+"""
+And a DocString with wrong indentation
+"""
+wrongly indented line
+"""
+And a DocString with alternative separator
+"""
+first line
+second line
+```
+And a DocString with normal separator inside
+```
+first line
+'
+third line
+"""
+And a DocString with alternative separator inside
+"""
+first line
+```
+third line
+"""
+And a DocString with escaped separator inside
+"""
+first line
+\"\"\"
+third line
+"""
+
+Examples: 
+|foo|bar /|/foo|
+||||
+
 @SC_106842
 Scenario: Check update from GIT
 Given I created new scenario in repository

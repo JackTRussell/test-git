@@ -1,4 +1,4 @@
-@ST_26437 @Story_BookSearch
+@Story_BookSearch
 Feature: Book search
  To allow a customer to find his favourite books quickly, the library must offer multiple ways to search for a book.
 
@@ -6,13 +6,13 @@ Background:
 
 And today is 2015-11-18
 
-@SC_106842
+
 Scenario: Check update from GIT
 Given I created new scenario in repository
 Then I can see it in Relime
 But we have this story in Jira
 
-@SC_106843
+
 Scenario: 
 Given a $100 microwave was sold on 2015-11-03
 And today is 2016-06-21
@@ -28,13 +28,13 @@ And Book 1 should have the title 'Some other book'
 And Book 2 should have the title 'One good book'
 Then i want do smth with "smth"
 
-@SC_106845
+
 Scenario: 
 Given a $100 microwave was sold on 2015-11-03
 And today is 2016-10-31
 Then the salary management system is initialized with the following data
 
-@SC_106846
+
 Scenario Outline: test scenario
 Given the salary management system is initialized with the following data
 When the boss increases the salary for the <user> with id <id> by 5%

@@ -1,7 +1,7 @@
-@ST_54713
+
 Feature: check example table
 
-@SC_207107
+
 Scenario: scenario with example table
 Given I have scenario with key word 'Scenario'
 But without key word 'Scenario Outline'

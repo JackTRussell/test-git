@@ -1,4 +1,4 @@
-@ST_71494 @tagtagtag @this_is_story_tag @new_changes
+@ST_4 @tagtagtag @this_is_story_tag @new_changes
 Feature: Just feature for testing
 I want to see new description with new changes
 
@@ -7,7 +7,7 @@ Background:
 Given new changes
 Then sjkl;
 
-@SC_268659 @first_scenario_tag
+@SC_9 @first_scenario_tag
 Scenario: First scenario
 There is scenario description
 Lorem ipsum dolor sit amet, mea dico volumus copiosae cu, debet movet doctus ex nec, at adipisci interpretaris usu. Has feugiat ponderum te. Pri nisl case id, te est diam sint regione, in alii philosophia sit. Ius ancillae voluptaria cu. Ut eam dicta partiendo.
@@ -21,13 +21,13 @@ And more changes were added
 And some changes
 But in this story background hasn't given keyword
 
-@SC_268660 @second_scenario_tag
+@SC_10 @second_scenario_tag
 Scenario: Second scenario
 Some description
 Given I created scenario
 Then I see it in Relime
 
-@SC_268661 @third_scenario_tag
+@SC_11 @third_scenario_tag
 Scenario: Third scenario
 There is scenario description
 Lorem ipsum dolor sit amet, mea dico volumus copiosae cu, debet movet doctus ex nec, at adipisci interpretaris usu. Has feugiat ponderum te. Pri nisl case id, te est diam sint regione, in alii philosophia sit. Ius ancillae voluptaria cu. Ut eam dicta partiendo.
@@ -37,13 +37,13 @@ In mea tibique appetere perfecto, in iudico maluisset maiestatis usu. Augue disc
 Given I created scenario
 Then I see it in Relime
 
-@SC_268662 @fourth_scenario_tag
+@SC_12 @fourth_scenario_tag
 Scenario: Fourth scenario
 Some description
 Given I created scenario
 Then I see it in Relime
 
-@SC_268663 @fifth_scenario_tag
+@SC_13 @fifth_scenario_tag
 Scenario Outline: Fifth scenario
 Given the salary management system is initialized with the following data
 When the boss increases the salary for the <user> with id <id> by 5%
@@ -61,13 +61,13 @@ Examples:
 |stive|4|45000.0|
 
 
-@SC_268664 @second_scenario_tag
+@SC_14 @second_scenario_tag
 Scenario: Second scenario
 Some description
 Given I created scenario
 Then I see it in Relime
 
-@SC_268665 @third_scenario_tag
+@SC_15 @third_scenario_tag
 Scenario: Third scenario
 There is scenario description
 Lorem ipsum dolor sit amet, mea dico volumus copiosae cu, debet movet doctus ex nec, at adipisci interpretaris usu. Has feugiat ponderum te. Pri nisl case id, te est diam sint regione, in alii philosophia sit. Ius ancillae voluptaria cu. Ut eam dicta partiendo.
@@ -77,13 +77,13 @@ In mea tibique appetere perfecto, in iudico maluisset maiestatis usu. Augue disc
 Given I created scenario
 Then I see it in Relime
 
-@SC_268666 @fourth_scenario_tag
+@SC_16 @fourth_scenario_tag
 Scenario: Fourth scenario
 Some description J
 Given I created scenario
 Then I see it in Relime
 
-@SC_268667 @fifth_scenario_tag
+@SC_17 @fifth_scenario_tag
 Scenario Outline: Fifth scenario
 Given the salary management system is initialized with the following data
 When the boss increases the salary for the <user> with id <id> by 5%
@@ -101,7 +101,7 @@ Examples:
 |stive|4|45000.0|
 
 
-@SC_268668 @first_scenario_tag
+@SC_18 @first_scenario_tag
 Scenario: First scenario
 There is scenario description
 Lorem ipsum dolor sit amet, mea dico volumus copiosae cu, debet movet doctus ex nec, at adipisci interpretaris usu. Has feugiat ponderum te. Pri nisl case id, te est diam sint regione, in alii philosophia sit. Ius ancillae voluptaria cu. Ut eam dicta partiendo.
@@ -115,13 +115,13 @@ And more changes were added
 And some changes
 But in this story background hasn't given keyword
 
-@SC_268669 @second_scenario_tag
+@SC_19 @second_scenario_tag
 Scenario: Second scenario
 Some description
 Given I created scenario
 Then I see it in Relime
 
-@SC_268670 @third_scenario_tag
+@SC_20 @third_scenario_tag
 Scenario: Third scenario
 There is scenario description
 Lorem ipsum dolor sit amet, mea dico volumus copiosae cu, debet movet doctus ex nec, at adipisci interpretaris usu. Has feugiat ponderum te. Pri nisl case id, te est diam sint regione, in alii philosophia sit. Ius ancillae voluptaria cu. Ut eam dicta partiendo.
@@ -131,13 +131,13 @@ In mea tibique appetere perfecto, in iudico maluisset maiestatis usu. Augue disc
 Given I created scenario
 Then I see it in Relime
 
-@SC_268671 @fourth_scenario_tag
+@SC_21 @fourth_scenario_tag
 Scenario: Fourth scenario
 Some description
 Given I created scenario
 Then I see it in Relime
 
-@SC_268672 @fifth_scenario_tag
+@SC_22 @fifth_scenario_tag
 Scenario Outline: Fifth scenario
 Given the salary management system is initialized with the following data
 When the boss increases the salary for the <user> with id <id> by 5%
@@ -155,13 +155,13 @@ Examples:
 |stive|4|45000.0|
 
 
-@SC_268673 @second_scenario_tag
+@SC_23 @second_scenario_tag
 Scenario: Second scenario
 Some description
 Given I created scenario
 Then I see it in Relime
 
-@SC_268674 @third_scenario_tag
+@SC_24 @third_scenario_tag
 Scenario: Third scenario
 There is scenario description
 Lorem ipsum dolor sit amet, mea dico volumus copiosae cu, debet movet doctus ex nec, at adipisci interpretaris usu. Has feugiat ponderum te. Pri nisl case id, te est diam sint regione, in alii philosophia sit. Ius ancillae voluptaria cu. Ut eam dicta partiendo.
@@ -171,13 +171,13 @@ In mea tibique appetere perfecto, in iudico maluisset maiestatis usu. Augue disc
 Given I created scenario
 Then I see it in Relime
 
-@SC_268675 @fourth_scenario_tag
+@SC_25 @fourth_scenario_tag
 Scenario: Fourth scenario
 Some description J
 Given I created scenario
 Then I see it in Relime
 
-@SC_268676 @fifth_scenario_tag
+@SC_26 @fifth_scenario_tag
 Scenario Outline: Fifth scenario
 Given the salary management system is initialized with the following data
 When the boss increases the salary for the <user> with id <id> by 5%

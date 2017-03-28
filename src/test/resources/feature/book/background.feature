@@ -1,4 +1,4 @@
-@ST_27130
+@ST_7
 Feature: background
 
 Background: a simple background
